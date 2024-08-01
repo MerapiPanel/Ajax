@@ -1,6 +1,10 @@
 {
   "name": "Ajax",
   "description": "Ajax module",
+  "github": {
+    "user": "MerapiPanel",
+    "repo": "Ajax"
+  },
   "version": "0.1.0",
   "author": "Il4mb",
   "icon": "./icon.svg"
