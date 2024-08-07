@@ -68,8 +68,6 @@ namespace MerapiPanel\Module\Ajax\Controller {
             $moduleName = $request->module_name();
             $methodName = $request->method_name();
 
-
-
             ob_start();
             $module = Box::module($moduleName);
             if ($module->Ajax) {
